@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http-status": "^1.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrIsStY114/RELU.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CrIsStY114/RELU/issues"
+  },
+  "homepage": "https://github.com/CrIsStY114/RELU#readme",
+  "description": ""
+}
